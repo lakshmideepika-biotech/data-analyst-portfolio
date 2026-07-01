@@ -1,27 +1,51 @@
-# SQL Sales Analysis
+# 💻 SQL Sales Analysis
 
-This project analyzes sales data using SQL Server.
+## 📌 Project Overview
+This project analyzes the Sample Superstore dataset using SQL to extract meaningful business insights through queries and data analysis.
 
-## Skills Used
-- SELECT
-- WHERE
+## 🎯 Objectives
+- Analyze sales and profit performance.
+- Identify top-performing categories and regions.
+- Perform business analysis using SQL queries.
+
+## 🛠️ Tools & Skills Used
+- MySQL
+- SQL
+- Aggregate Functions
 - GROUP BY
 - ORDER BY
-- Aggregate Functions
-- Joins
+- WHERE Clause
+- Data Analysis
 
-## Project Description
-This project focuses on analyzing sales data using SQL to extract meaningful business insights such as total sales, top-performing products, and regional performance.
+## 📈 SQL Analysis Includes
+- Total Sales
+- Total Profit
+- Total Quantity
+- Sales by Category
+- Sales by Sub-Category
+- Sales by Region
+- Top Selling Products
+- Top Customers
+- Profit Analysis
 
-## Queries Used
-- Total Sales Calculation using SUM()
-- Top 5 Products by Sales using ORDER BY and LIMIT
-- Region-wise Sales Analysis using GROUP BY
+## 📂 Dataset
+Sample Superstore Dataset
 
-  ## Key Insights
-- Overall sales performance was calculated successfully
-- Identified top-selling products contributing to revenue
-- Region-wise comparison helped understand market performance
+## 📷 Project Preview
+(Add screenshots of your SQL queries and outputs here)
 
-  ## Conclusion
-This project helped in understanding how SQL can be used for real-world sales data analysis and decision-making.
+## 🚀 Key Insights
+- Technology category achieved the highest sales.
+- Some regions generated higher profits than others.
+- SQL queries helped identify trends and business opportunities.
+
+## 📁 Project Files
+- Sales_Analysis.sql
+- SampleSuperstore.xlsx
+- region_wise_sales.png.png
+- top_5_products.png.png
+- total_sales.png.png
+- README.md
+
+## 👩‍💻 Author
+**Peyala Lakshmi Deepika**
