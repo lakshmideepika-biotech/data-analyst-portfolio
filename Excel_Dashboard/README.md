@@ -17,3 +17,8 @@ This project analyzes sales performance using Microsoft Excel
 
 ### Filter by Region
 ![Region Filter](dashboard_filter2.png.png)
+
+## Files
+- Excel_Dashboard.xlsx
+- README.md
+- Dashboard screenshots
